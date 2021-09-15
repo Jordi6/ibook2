@@ -1,6 +1,6 @@
 $(function() {
 	var offset = 0;
-	var limit = 3;
+	var limit = 4;
 	var ajaxDone = true;
 	var morePages = true;
 	var editId = 0;
